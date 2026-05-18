@@ -5,6 +5,7 @@
 | Name | Architecture |
 |------|--------------|
 | ABC | 1w |
+| linux | x86 |
 | macOS | x86 |
 
 ### Tier 2
