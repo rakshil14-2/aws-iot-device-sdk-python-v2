@@ -4,6 +4,8 @@
 
 | Name | Architecture |
 |------|--------------|
+| ABC | 1w |
+| macOS | x86 |
 
 ### Tier 2
 
