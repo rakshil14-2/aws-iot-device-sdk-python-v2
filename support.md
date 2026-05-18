@@ -4,6 +4,7 @@
 
 | Name | Architecture |
 |------|--------------|
+| ABC | 1w |
 
 ### Tier 2
 
